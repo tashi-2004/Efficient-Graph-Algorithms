@@ -16,7 +16,7 @@ This repository contains a C++ implementation of a weighted graph class. Weighte
 
 ## Installation
 
-1. Include the `Weighted_graph.h` header file in your C++ project
+1. Include the `weighted_graph.h` header file in your C++ project
 2. Use skeleton files to test.
 
 ## Usage
